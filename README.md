@@ -1,4 +1,4 @@
-# Seja bem vindo <iframe src="https://giphy.com/embed/l1KVcPPAkovp15Sne" width="100px"> 
+
 
 **carol-mira/carol-mira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
