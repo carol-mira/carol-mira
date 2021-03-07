@@ -1,4 +1,4 @@
-# Seja bem vindo(a)!! <img src="https://media.giphy.com/media/l1KVcPPAkovp15Sne/giphy.gif" width="110px">
+# Seja bem vindo(a)!! <img src="https://media.giphy.com/media/l1KVcPPAkovp15Sne/giphy.gif" width="150px">
 
 <img align="right" width="400px" src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif">
 
