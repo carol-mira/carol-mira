@@ -1,6 +1,6 @@
-<img align="right" width="400px" src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif">
-
 # Seja bem vindo(a)!! <img src="https://media.giphy.com/media/l1KVcPPAkovp15Sne/giphy.gif" width="110px">
+
+<img align="right" width="400px" src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif">
 
 - 👩‍🎓 Graduada em Administração
 - 👩🏻‍💻 Desenvolvedor (a) Full Stack - Bootcamp Generation Brasil 
