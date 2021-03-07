@@ -8,7 +8,7 @@
 - ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
 - 📧 Onde me encontrar: :[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carol-mira)](https://github.com/carol-mira) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-miranda-374738148/)](https://www.linkedin.com/in/caroline-miranda-374738148/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirandacmcaroline@gmail.com)](mailto:mirandacmcaroline@gmail.com)
 
-# Tools and GitHub Stats<img src="https://media.giphy.com/media/OUDgFltBZ6mc0/giphy.gif" width="100px">
+# Tools and GitHub Stats<img src="https://media.giphy.com/media/g0mM2wdBSM1OnFAO21/giphy.gif" width="100px">
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
 ![Spring](https://camo.githubusercontent.com/d8f7e93bdb728c656b784b48c9229b2224067c147978e345773f21c0ac43f324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
