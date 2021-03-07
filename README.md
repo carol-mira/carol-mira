@@ -1,5 +1,5 @@
-###  Seja bem vindo(a) ao meu perfil!  <iframe src="https://giphy.com/embed/l1KVcPPAkovp15Sne" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen>
-<!--
+###  Seja bem vindo(a) ao meu perfil! 
+
 **carol-mira/carol-mira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
