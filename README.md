@@ -1,6 +1,6 @@
-# Seja bem vindo(a)!! <img src="https://media.giphy.com/media/l1KVcPPAkovp15Sne/giphy.gif" width="110px">
+<img align="right" width="400px" src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif">
 
-### "Vencedores não são pessoas que nunca falham, são pessoas que nunca desistem".
+# Seja bem vindo(a)!! <img src="https://media.giphy.com/media/l1KVcPPAkovp15Sne/giphy.gif" width="110px">
 
 - 👩‍🎓 Graduada em Administração
 - 👩🏻‍💻 Desenvolvedor (a) Full Stack - Bootcamp Generation Brasil 
@@ -8,7 +8,7 @@
 - ❤️Apoio a diversidade e inclusão na área de tecnologia e desenvolvimento
 - 📧 Onde me encontrar: :[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carol-mira)](https://github.com/carol-mira) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-miranda-374738148/)](https://www.linkedin.com/in/caroline-miranda-374738148/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirandacmcaroline@gmail.com)](mailto:mirandacmcaroline@gmail.com)
 
-# Tools and GitHub Stats<img src="https://media.giphy.com/media/OUDgFltBZ6mc0/giphy.gif" width="110px">
+# Tools and GitHub Stats<img src="https://media.giphy.com/media/OUDgFltBZ6mc0/giphy.gif" width="100px">
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
 ![Spring](https://camo.githubusercontent.com/d8f7e93bdb728c656b784b48c9229b2224067c147978e345773f21c0ac43f324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
@@ -20,7 +20,6 @@
 ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 ![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
 ![VSCode](https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
-
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-mira&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carol-mira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
